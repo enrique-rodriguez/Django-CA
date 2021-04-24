@@ -1,5 +1,5 @@
 from config import AppConfig
-from ui.forms import ProductForm
+from db.forms import ProductForm
 from django.views.generic import FormView
 from django.forms import models as model_forms
 
